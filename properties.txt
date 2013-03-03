@@ -1,0 +1,1 @@
+IContactSvc = services.ContactSvcJDBCImpl
